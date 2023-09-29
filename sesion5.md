@@ -11,7 +11,7 @@
 
 
 
-~~~java
+```java
 import java.util.Scanner;
 public class Johnnyactiv5log {
  public static void main(String[] args) {
@@ -67,11 +67,11 @@ public class Johnnyactiv5log {
         
     }
 }
-~~~
+```
 
 # Ejercicios - do while
 1. Escribe un programa en Java que imprima los números del 1 al 100, pero que se detenga si el usuario introduce un número negativo.
-~~~java
+```java
 import java.util.Scanner;
 public class Johnnyactiv5log {
 public static void main(String[] args) {
@@ -95,7 +95,7 @@ public static void main(String[] args) {
         
     }
 }
-~~~
+```
 
 2. Escribe un programa en Java que pida al usuario un número entero e imprima la tabla de multiplicar de ese número, pero que se detenga si el usuario introduce el número 0.
 
@@ -128,7 +128,7 @@ public class Johnnyactiv5log {
 ~~~
 ## Ejercicios - for
 1. Imprimir los números impares del 1 al 50.
-~~~java
+```java
 public class Johnnyactiv5log {
 
     public static void main(String[] args) {
@@ -142,10 +142,10 @@ for (int i = 1; i <= 50; i++) {
         }
     }
 }
-~~~
+```
 
 2.Imprimir los números primos del 1 al 100.
- ~~~java
+ ```java
 class Main {
   public static void main(String[] args) {
     
@@ -165,4 +165,4 @@ class Main {
         }
     }
 }
-~~~
+```

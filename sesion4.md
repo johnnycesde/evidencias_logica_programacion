@@ -9,8 +9,8 @@
 ## Ejercicios de control de flujo con expresiones compuestas
 
  // Variables de tipo String
- ~~~java copy
- ``` 
+
+ ```java
   
 
 String nombre = "Juan Pérez";
@@ -50,7 +50,8 @@ int semestre = 2;
 4.5 - 5.0: El estudiante recibe una beca completa.
 
 
-~~~java copy
+```java
+
 class Main {
   public static void main(String[] args) {
   // Variables de tipo String
@@ -152,7 +153,8 @@ System.out.println("________________________");
     
   }
 }
-~~~
+
+```
 
 
 
